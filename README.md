@@ -1,0 +1,2 @@
+# avaxbones
+Bones on AVAX
